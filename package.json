@@ -1,0 +1,19 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.1",
+  "description": "a simple reciprocal encryption module,  no bs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoGross/encrypt-decrypt.git"
+  },
+  "author": "Zeal Murapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoGross/encrypt-decrypt/issues"
+  },
+  "homepage": "https://github.com/GoGross/encrypt-decrypt#readme"
+}
